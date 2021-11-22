@@ -1,0 +1,2 @@
+# Flaskapp
+FLASK BASED WEB APP ON AZURE
